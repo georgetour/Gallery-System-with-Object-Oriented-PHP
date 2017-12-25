@@ -5,7 +5,7 @@ This is a gallery system I made before some months that uses Object Oriented PHP
 To install just place all the files in local server enviroment like xampp or wampp. I have a dump sql file in mysql dump folder which you can find some demo data. The database info can be found at admin/includes/new_config.php.
 
 ## admin
-- It contains everything that runs the admin so users will be able to upalod their files. All the php files have meaningfull names with comments.
+- It contains everything that runs the admin so users will be able to upload their files. All the php files have meaningfull names with comments.
 
 ## admin/css
 - All our css for admin is here
